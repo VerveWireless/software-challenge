@@ -33,10 +33,13 @@ Your application should be easy to set up and should run on Mac OS X.  It should
 
 ## Evaluation
 
-Evaluation of your submission will be based not he following criteria.  Additional, reviewers will attempt to access your familiarity with standard libraries.  If your code submission is in Ruby or JavaScript, reviewers will attempt to access your experience with object-orented programming based on how you’ve structured your submission.
+Evaluation of your submission will be based on the following criteria:
 
 1. Did you application fulfill the basic requirements?
 2. Did you document the method for setting up and running your application?
+
+Additionally, reviewers will attempt to assess your familiarity with standard libraries.  If your code submission is in Ruby or JavaScript, reviewers will attempt to assess your experience with object-orented programming based on how you’ve structured your submission.
+
 
 ## Submission
 
