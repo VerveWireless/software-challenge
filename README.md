@@ -1,6 +1,6 @@
 # Challenge for Software Engineer or Frontend Engineer
 
-See our open jobs http://www.vervemobile.com/jobs/
+See our open jobs https://www.vervemobile.com/careers/
 
 To better assess a candidates development skills, we would like to provide the following challenge.  You have as much time as you’d like though we ask that you not spend more that a few hours.
 
@@ -43,4 +43,4 @@ Additionally, reviewers will attempt to assess your familiarity with standard li
 
 ## Submission
 
-After completing the challenge submit it to your Verve contact or jspooner[at]vervemobile.com
+After completing the challenge submit it to your Verve contact or adam.ingramgoble[at]vervemobile.com
