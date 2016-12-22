@@ -6,7 +6,7 @@ To better assess a candidates development skills, we would like to provide the f
 
 ## Project Description
 
-Imagine that Verve has just received a new advertising campaign from a national coffee franchise to promote their new Chocolate Macchiato.  They will be delivering a tab separated document with each store location so we can drive foot traffic into each location.  Geo targeted ads are typically target to a 5 mile radius around the business.  Your task is to create a web interface that accepts file uploads, stores it in a database and then displays a list ordered ordered by distance from the Verve Carlsbad office **( 33.1243208, -117.32582479999996 )**.
+Imagine that Verve has just received a new advertising campaign from a national coffee franchise to promote their new Chocolate Macchiato.  They will be delivering a tab separated document with each store location so we can drive foot traffic into each location.  Geo targeted ads are typically target to a 5 mile radius around the business.  Your task is to create a web interface that accepts file uploads, stores it in a database and then displays a list ordered by distance from the Verve Carlsbad office **( 33.1243208, -117.32582479999996 )**.
 
 #### Here’s what your web-based application must do:
 
